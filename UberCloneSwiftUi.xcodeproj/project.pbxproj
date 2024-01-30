@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		ED1C22932B698E5800867074 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1C22922B698E5800867074 /* RideType.swift */; };
+		ED1C22952B699C2300867074 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1C22942B699C2300867074 /* Double.swift */; };
 		ED46D8952B62EAA000E314A9 /* UberCloneSwiftUiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED46D8942B62EAA000E314A9 /* UberCloneSwiftUiApp.swift */; };
 		ED46D89C2B62EAA200E314A9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED46D89B2B62EAA200E314A9 /* Preview Assets.xcassets */; };
 		ED46D8AA2B62EB4300E314A9 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED46D8A92B62EB4300E314A9 /* HomeView.swift */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		ED1C22922B698E5800867074 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
+		ED1C22942B699C2300867074 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 		ED46D8912B62EAA000E314A9 /* UberCloneSwiftUi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UberCloneSwiftUi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED46D8942B62EAA000E314A9 /* UberCloneSwiftUiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UberCloneSwiftUiApp.swift; sourceTree = "<group>"; };
 		ED46D89B2B62EAA200E314A9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 		ED46D8A42B62EAD800E314A9 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				ED1C22942B699C2300867074 /* Double.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				ED46D8B82B63DF5000E314A9 /* LocationSearchView.swift in Sources */,
 				ED46D8AE2B62EE4000E314A9 /* LocationManager.swift in Sources */,
 				EDC474782B68329C001870D6 /* RideRequestView.swift in Sources */,
+				ED1C22952B699C2300867074 /* Double.swift in Sources */,
 				EDC474752B67BAB2001870D6 /* MapViewState.swift in Sources */,
 				ED46D8B62B63DDEF00E314A9 /* MapViewActionButton.swift in Sources */,
 				ED46D8AA2B62EB4300E314A9 /* HomeView.swift in Sources */,
