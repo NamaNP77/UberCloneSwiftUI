@@ -13,6 +13,7 @@ extension Double {
         formatter.numberStyle = .currency
         formatter.minimumFractionDigits = 2
         formatter.maximumFractionDigits = 2
+        formatter.currencyCode = "INR"
         return formatter
     }
     
